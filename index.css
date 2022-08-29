@@ -5,10 +5,9 @@
 }
 html{
     padding: 1vh 5vw;
-    background-color: rgb(245, 245, 245);
 }
 body{
-    
+    background-color: rgb(245, 245, 245);
     border-style: solid;
     border-color: rgb(241, 241, 241);
     border-width: 1px;
